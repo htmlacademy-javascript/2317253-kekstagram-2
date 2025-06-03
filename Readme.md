@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Роман Антонюк](https://up.htmlacademy.ru/javascript-individual/2/user/2317253).
-* Наставник: `Неизвестно`.
+- Студент: [Роман Антонюк](https://up.htmlacademy.ru/javascript-individual/2/user/2317253).
+- Наставник: [Павел Ившин](https://htmlacademy.ru/profile/id818775).
 
 ---
 
